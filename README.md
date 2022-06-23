@@ -2,13 +2,13 @@
 
 |Licencia|Lenguaje|
 |:--:|:--:|
-|[![License](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)|[![Lenguaje](https://img.shields.io/badge/Language-java-blue.svg)](https://dev.java/learn/getting-started-with-java/)
+|[![Licencia](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)|[![Lenguaje](https://img.shields.io/badge/Language-java-blue.svg)](https://dev.java/learn/getting-started-with-java/)
 
 Ciclo IV 2019 - UNMSM - Proyecto final del curso "Algorítmica y Programación Orientada a Objetos"
 
 ## Descripción
 
-El presente proyecto está basado en las funcionalidades para los usuarios que ofrece la aplicación móvil del Metropolitano, el cual se puede descargar gratuitamente desde la "Play Store" para dispositivos móviles Android. Y para la persistencia de datos se utilizaron archivos.
+El presente proyecto está basado en las funcionalidades para los usuarios que ofrece la aplicación móvil del Metropolitano, el cual se puede descargar gratuitamente desde la "Play Store" para dispositivos móviles Android. Y para la persistencia de datos se utilizaron archivos, los cuales almacenan datos de los usuarios, estaciones, movimientos de tarjeta y viajes.
 
 
 ## Capturas
