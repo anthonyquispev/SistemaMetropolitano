@@ -4,7 +4,7 @@
 
 |Licencia|Lenguaje|Ciclo|Curso|
 |:--:|:--:|:--:|:--:|
-|[![Licencia](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)|[![Lenguaje](https://img.shields.io/badge/Language-java-blue.svg)](https://dev.java/learn/getting-started-with-java/)|![Ciclo](https://img.shields.io/badge/IV-2019-green.svg)|![Estructura de Datos](https://img.shields.io/badge/Algorítmica_y_Programación_Orientada_a_Objetos-blueviolet.svg)
+|[![Licencia](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)|[![Lenguaje](https://img.shields.io/badge/Language-java-blue.svg)](https://dev.java/learn/getting-started-with-java/)|![Ciclo](https://img.shields.io/badge/IV-2019-green.svg)|![Algorítmica y Programación Orientada a Objetos](https://img.shields.io/badge/Algorítmica_y_Programación_Orientada_a_Objetos-blueviolet.svg)
 
 </div>
 
